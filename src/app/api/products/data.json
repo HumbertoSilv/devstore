@@ -1,7 +1,7 @@
 {
     "products": [
       {
-        "id": 1,
+        "id": "b474b5ee-39ef-4f0f-abc3-67eb75a92836",
         "title": "Moletom Never Stop Learning",
         "slug": "moletom-never-stop-learning",
         "price": 129,
@@ -10,7 +10,7 @@
         "featured": true
       },
       {
-        "id": 2,
+        "id": "e9947be9-c870-4aa8-8402-b786a5de213d",
         "title": "Moletom AI Side",
         "slug": "moletom-ai-side",
         "price": 99,
@@ -19,7 +19,7 @@
         "featured": true
       },
       {
-        "id": 3,
+        "id": "2265dfe7-6d03-436b-9763-7616cb27e69c",
         "title": "Camiseta DoWhile 2022",
         "slug": "camiseta-dowhile-2022",
         "price": 69,
@@ -28,7 +28,7 @@
         "featured": true
       },
       {
-        "id": 4,
+        "id": "bc2a8f63-e17a-497f-8745-5182ab0a47cd",
         "title": "Moletom Java 2023",
         "slug": "moletom-java-2023",
         "price": 99,
@@ -37,7 +37,7 @@
         "featured": false
       },
       {
-        "id": 5,
+        "id": "b6924e78-f5ca-4fbe-8593-c8ca45b8bb17",
         "title": "Moletom IA p/ devs",
         "slug": "moletom-ia-p-devs",
         "price": 99,
